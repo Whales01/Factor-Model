@@ -43,10 +43,10 @@ Assets were selected across four distinct investment style categories to test wh
 
 | Category | US Assets | UK Assets |
 |---|---|---|
-| **Aggressive Growth** | NVDA (NVIDIA), TSLA (Tesla) | — |
+| **Aggressive Growth** | NVDA (NVIDIA), TSLA (Tesla) | OCDO (Ocado Group) |
 | **Deep Value** | XOM (ExxonMobil) | LLOY (Lloyds Banking Group) |
-| **High Quality / Robust Profitability** | JNJ (Johnson & Johnson) | — |
-| **Mid-Cap / High Momentum** | — | — |
+| **High Quality / Robust Profitability** | JNJ (Johnson & Johnson) | ULVR (Unilever) |
+| **Mid-Cap / High Momentum** | NVDA (NVIDIA) | AAL (Anglo American Plc) |
 
 ### Regression Framework
 
