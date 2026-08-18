@@ -122,7 +122,7 @@ From a practical investing perspective, this analysis suggests three actionable 
 
 ```bash
 # Clone the repository
-git clone https://github.com/mofeeyo/FactorModelAssessment.git
+git clone https://github.com/mofeeyo/FactorModelAssessment.git  https://github.com/Whales01/Factor-Model/blob/main/FactorModel.ipynb
 
 # Install dependencies
 pip install pandas numpy yfinance pandas-datareader statsmodels matplotlib seaborn
