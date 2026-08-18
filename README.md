@@ -156,4 +156,4 @@ The methodology draws on foundational academic literature:
 
 ---
 
-*For questions or collaboration enquiries, please connect via [LinkedIn](https://www.linkedin.com/in/awotunde-olawale)*
+*For questions or collaboration enquiries, please connect via [LinkedIn](https://www.linkedin.com/in/awotunde-olawale-0352079b/)*
