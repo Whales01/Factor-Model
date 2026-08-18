@@ -1,8 +1,8 @@
 # Cross-Market Multi-Factor Asset Pricing Analysis
 ## Empirical Assessment of FF3, Carhart4, and FF5 Models — US & UK Equity Markets (2014–2024)
 
-**Author:** Mofe Eyo  
-**Qualification:** ACA | MSc Financial Technology (Distinction), University of Surrey  
+**Author:** Olawale  
+**Qualification:** ACA | MSc Financial Technology (Distinction)  
 **Research Period:** 2014 – 2024  
 **Markets Covered:** United States (NYSE/NASDAQ) | United Kingdom (LSE)
 
