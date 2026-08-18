@@ -1,5 +1,5 @@
 # Cross-Market Multi-Factor Asset Pricing Analysis
-## Empirical Assessment of FF3, Carhart4, and FF5 Models — US & UK Equity Markets (2014–2024)
+## Empirical Assessment of FF3, Carhart4, and FF5 Models - US & UK Equity Markets (2014–2024)
 
 **Author:** Olawale  
 **Qualification:** ACA | MSc Financial Technology (Distinction)  
@@ -10,7 +10,7 @@
 
 ## Research Question
 
-Which factor model — Fama-French Three-Factor (FF3), Carhart Four-Factor (C4), or Fama-French Five-Factor (FF5) — most completely explains the cross-section of stock returns across US and UK markets by minimising residual pricing error (alpha, α)?
+Which factor model from the existing ones (Fama-French Three-Factor (FF3), Carhart Four-Factor (C4), or Fama-French Five-Factor (FF5)), most completely explains the cross-section of stock returns across US and UK markets by minimising residual pricing error (alpha, α)?
 
 What do the alpha residuals reveal about investment opportunities that systematic factor models cannot capture?
 
@@ -18,7 +18,7 @@ What do the alpha residuals reveal about investment opportunities that systemati
 
 ## Overview
 
-This repository contains an empirical study comparing the explanatory power of three canonical asset pricing models across carefully selected US and UK equity portfolios. The primary objective is to determine which model best minimises unexplained alpha — the residual pricing error that represents genuine idiosyncratic return generation beyond systematic factor exposure.
+This repository contains an empirical study comparing the explanatory power of three canonical asset pricing models across carefully selected US and UK equity portfolios. The primary objective is to determine which model best minimises unexplained alpha - the residual pricing error that represents genuine idiosyncratic return generation beyond systematic factor exposure.
 
 The study is motivated by a practical investment question: **if factor models cannot fully explain a stock's returns, what does that residual alpha tell us about the investment opportunity?**
 
@@ -131,7 +131,7 @@ pip install pandas numpy yfinance pandas-datareader statsmodels matplotlib seabo
 jupyter notebook FactorModelAssessment.ipynb
 ```
 
-Run all cells sequentially. The notebook fetches live data from Yahoo Finance and the French Data Library — an internet connection is required.
+Run all cells sequentially. The notebook fetches live data from Yahoo Finance and the French Data Library, and an internet connection is required.
 
 ---
 
