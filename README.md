@@ -122,7 +122,7 @@ From a practical investing perspective, this analysis suggests three actionable 
 
 ```bash
 # Clone the repository
-git clone https://github.com/mofeeyo/FactorModelAssessment.git  https://github.com/Whales01/Factor-Model/blob/main/FactorModel.ipynb
+git clone https://github.com/Whales01/Factor-Model
 
 # Install dependencies
 pip install pandas numpy yfinance pandas-datareader statsmodels matplotlib seaborn
@@ -156,4 +156,4 @@ The methodology draws on foundational academic literature:
 
 ---
 
-*For questions or collaboration enquiries, please connect via [LinkedIn](https://linkedin.com/in/mofeeyo)*
+*For questions or collaboration enquiries, please connect via [LinkedIn](https://www.linkedin.com/in/awotunde-olawale)*
